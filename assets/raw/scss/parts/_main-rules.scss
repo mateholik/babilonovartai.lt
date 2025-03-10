@@ -1,15 +1,18 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto');
-html, body {
-  font-family: 'Roboto', sans-serif;
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+html,
+body {
+  font-family: "Roboto", sans-serif;
   letter-spacing: 0.3px;
   background: #2b2b2b;
   margin: 0;
   padding: 0;
   font-size: 10px;
 }
-p, a, span {
+p,
+a,
+span {
   font-size: 1.8rem;
-  @media(max-width: 690px){
+  @media (max-width: 768px) {
     font-size: 1.6rem;
   }
 }
@@ -20,7 +23,7 @@ h1 {
   font-size: 4rem;
   font-weight: 600;
 
-  @media(max-width: 690px){
+  @media (max-width: 768px) {
     font-size: 3rem;
     margin-bottom: 2rem;
   }
@@ -28,7 +31,7 @@ h1 {
 h2 {
   font-size: 3rem;
   margin-bottom: 1rem;
-  @media(max-width: 690px){
+  @media (max-width: 768px) {
     font-size: 2.2rem;
   }
 }
@@ -38,38 +41,37 @@ h3 {
   color: #bb7e25;
   margin: 0;
   margin-bottom: 1rem;
-  @media(max-width: 690px){
+  @media (max-width: 768px) {
     font-size: 2.5rem;
   }
 }
 h4 {
   font-size: 2.5rem;
   margin: 0;
-  @media(max-width: 690px){
+  @media (max-width: 768px) {
     font-size: 2rem;
   }
 }
-h5{
+h5 {
   font-size: 2rem;
   margin: 0;
   color: #9c702f;
-  @media(max-width: 690px){
+  @media (max-width: 768px) {
     font-size: 1.6rem;
     margin-top: 0.5rem;
   }
 }
 
-h6{
+h6 {
   font-size: 2rem;
   margin: 0;
   font-style: italic;
   color: #de8a2f;
-  @media(max-width: 690px){
+  @media (max-width: 768px) {
     font-size: 1.6rem;
     margin-top: 0.5rem;
   }
 }
-
 
 ul {
   list-style: none;
@@ -85,7 +87,7 @@ ul {
   z-index: 99;
   border: none;
   outline: 0;
-  background-color: rgba(5,10,26,.6);
+  background-color: rgba(5, 10, 26, 0.6);
   color: #9e1e34;
   cursor: pointer;
   border-radius: 10px;
@@ -95,23 +97,23 @@ ul {
 }
 
 .back-to-top:hover {
-  background-color: rgba(5,10,26,.8);
+  background-color: rgba(5, 10, 26, 0.8);
 }
 
-.content-wrap{
+.content-wrap {
   &__section {
     max-width: 1024px;
-    margin: 50px 50px 50px 250px;
+    margin: 50px 50px 50px 280px;
     color: #bd9999;
 
-    @media(max-width: 690px){
+    @media (max-width: 768px) {
       margin: 70px 20px;
     }
 
     h1 {
       a {
         font-size: 4rem;
-        @media(max-width: 690px){
+        @media (max-width: 768px) {
           font-size: 3rem;
         }
       }
@@ -123,25 +125,24 @@ ul {
   }
 }
 
-
 .iframe-container-wrap {
   max-width: 55rem;
   height: auto;
   margin: 0 auto;
-  @media(max-width: 690px){
+  @media (max-width: 768px) {
     width: 100%;
   }
 }
-.iframe-container{
+.iframe-container {
   position: relative;
   width: 100%;
   padding-bottom: 56.25%;
   height: 0;
   margin: 2rem 0;
 }
-.iframe-container iframe{
+.iframe-container iframe {
   position: absolute;
-  top:0;
+  top: 0;
   left: 0;
   width: 100%;
   height: 100%;

@@ -11,7 +11,7 @@
     width: 100%;
     text-align: right;
     box-sizing: border-box;
-    @media (min-width: 690px) {
+    @media (min-width: 768px) {
       display: none;
     }
     &:hover {
@@ -25,7 +25,7 @@
     top: 0;
     bottom: 0;
     background-color: rgba(5, 10, 26, 0.9);
-    @media (max-width: 690px) {
+    @media (max-width: 768px) {
       display: none;
     }
     .menu-logo {
@@ -40,7 +40,7 @@
     .menu-list {
       margin: 0;
       padding: 0;
-
+      margin-top: 32px;
       a {
         color: lightyellow;
         text-decoration: none;
@@ -66,7 +66,7 @@
         padding: 0.5rem 2rem;
         margin-bottom: 1rem;
         display: block;
-        color: #007bff;
+        color: #e9b05c;
         &:hover {
           color: lightyellow;
         }
@@ -75,7 +75,7 @@
         font-size: 2.5rem;
       }
       &__icon {
-        color: #007bff;
+        color: #e9b05c;
         padding: 0.5rem;
         &:hover {
           color: lightyellow;

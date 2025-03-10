@@ -18,11 +18,10 @@
     <a href="/akordai.php">
       <li>Akordai</li>
     </a>
-    <a href="/vlogas.php">
-      <li>VLOGAS</li>
-    </a>
+
   </ul>
   <div class="menu-socials">
+    <a class="menu-socials__mail" target="_blank" href="https://www.flowcode.com/page/babilonovartai">MES INTERNETE</a>
     <a class="menu-socials__mail" href="mailto:babilonovartai@gmail.com">babilonovartai@gmail.com</a>
     <div class="socials">
       <a class="menu-socials__icon" href="https://www.facebook.com/babilonovartai/" target="_blank"><i

@@ -1,10 +1,9 @@
-body, html {
-  background-image: url('/assets/img/back3.png');
+body,
+html {
+  background-image: url("/assets/img/back3.webp");
 }
 .akordai {
-
   &__list {
-
     a {
       text-decoration: none;
       &:hover {
@@ -21,7 +20,7 @@ body, html {
     margin-bottom: 2rem;
     padding-bottom: 1rem;
     border-bottom: 1px dotted #c8a788;
-    @media(max-width: 690px){
+    @media (max-width: 768px) {
       display: block;
     }
   }
@@ -34,7 +33,16 @@ body, html {
     padding-left: 0.5rem;
   }
 
-  #paskutinis_rastamanas, #bijau, #kapt_kapt, #medelis, #meiles_karys, #oj_kaip_mes_sokam, #regis, #vienas_po_viena, #vienas_zodis, #babilono_vartai  {
+  #paskutinis_rastamanas,
+  #bijau,
+  #kapt_kapt,
+  #medelis,
+  #meiles_karys,
+  #oj_kaip_mes_sokam,
+  #regis,
+  #vienas_po_viena,
+  #vienas_zodis,
+  #babilono_vartai {
     padding-top: 5rem;
   }
 }

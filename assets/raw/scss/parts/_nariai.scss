@@ -1,5 +1,6 @@
-body, html {
-  background-image: url('/assets/img/back3.png');
+body,
+html {
+  background-image: url("/assets/img/back3.webp");
 }
 .nariai {
   &__narys {
@@ -7,7 +8,7 @@ body, html {
     margin-bottom: 2rem;
     padding-bottom: 1rem;
     border-bottom: 1px dotted #c8a788;
-    @media(max-width: 690px){
+    @media (max-width: 768px) {
       display: block;
     }
   }
@@ -15,7 +16,9 @@ body, html {
     max-width: 20rem;
     width: 100%;
     margin-right: 2rem;
-
+    @media (max-width: 768px) {
+      margin-bottom: 16px;
+    }
     img {
       width: 100%;
       height: auto;
@@ -48,7 +51,6 @@ body, html {
     }
     i {
       font-size: 3rem;
-
     }
   }
 }
