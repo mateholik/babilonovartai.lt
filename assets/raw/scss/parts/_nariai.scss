@@ -1,0 +1,54 @@
+body, html {
+  background-image: url('/assets/img/back3.png');
+}
+.nariai {
+  &__narys {
+    display: flex;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px dotted #c8a788;
+    @media(max-width: 690px){
+      display: block;
+    }
+  }
+  &__narys-img {
+    max-width: 20rem;
+    width: 100%;
+    margin-right: 2rem;
+
+    img {
+      width: 100%;
+      height: auto;
+      border-radius: 2rem;
+    }
+  }
+  &__narys-info {
+    font-size: 1.6rem;
+  }
+  &__narys-name {
+    font-size: 2.2rem;
+    margin-bottom: 0.5rem;
+  }
+  &__narys-title {
+    font-size: 1.6rem;
+    color: #8a5d5c;
+    margin-bottom: 0.5rem;
+  }
+  &__narys-description {
+    font-size: 1.6rem;
+    line-height: 2.4rem;
+    margin-bottom: 1rem;
+  }
+  &__narys-fb {
+    margin-bottom: 1rem;
+    a {
+      &:hover {
+        color: #ffffe0;
+      }
+    }
+    i {
+      font-size: 3rem;
+
+    }
+  }
+}

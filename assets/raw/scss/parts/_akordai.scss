@@ -1,0 +1,40 @@
+body, html {
+  background-image: url('/assets/img/back3.png');
+}
+.akordai {
+
+  &__list {
+
+    a {
+      text-decoration: none;
+      &:hover {
+        color: #f34336;
+      }
+    }
+    li {
+      padding: 1rem 0;
+    }
+  }
+
+  &__akordas {
+    display: flex;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px dotted #c8a788;
+    @media(max-width: 690px){
+      display: block;
+    }
+  }
+  &__lyrick {
+    flex: 1;
+    padding-right: 0.5rem;
+  }
+  &__video {
+    flex: 1;
+    padding-left: 0.5rem;
+  }
+
+  #paskutinis_rastamanas, #bijau, #kapt_kapt, #medelis, #meiles_karys, #oj_kaip_mes_sokam, #regis, #vienas_po_viena, #vienas_zodis, #babilono_vartai  {
+    padding-top: 5rem;
+  }
+}
