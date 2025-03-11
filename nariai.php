@@ -13,7 +13,7 @@ include('parts/header.php'); ?>
 
         <div class="nariai__narys">
           <div class="nariai__narys-img">
-            <img src="assets/img/andrius.jpg" alt="">
+            <img src="assets/img/andrius.jpg" width="200" height="200" alt="andrius">
           </div>
           <div class="nariai__narys-info">
             <div class="nariai__narys-name">Andrius</div>
@@ -32,7 +32,7 @@ include('parts/header.php'); ?>
         </div>
         <div class="nariai__narys">
           <div class="nariai__narys-img">
-            <img src="assets/img/eisviss.jpg" alt="">
+            <img src="assets/img/eisviss.jpg" width="200" height="200" alt="eisvis">
           </div>
           <div class="nariai__narys-info">
             <div class="nariai__narys-name">Eisvis</div>
@@ -52,7 +52,7 @@ include('parts/header.php'); ?>
 
         <div class="nariai__narys">
           <div class="nariai__narys-img">
-            <img src="assets/img/vladiss.jpg" alt="">
+            <img src="assets/img/vladiss.jpg" width="200" height="200" alt="vladis">
           </div>
           <div class="nariai__narys-info">
             <div class="nariai__narys-name">Vladis</div>
@@ -71,7 +71,7 @@ include('parts/header.php'); ?>
 
         <div class="nariai__narys">
           <div class="nariai__narys-img">
-            <img src="assets/img/baniss.jpg" alt="">
+            <img src="assets/img/baniss.jpg" width="200" height="200" alt="banis">
           </div>
           <div class="nariai__narys-info">
             <div class="nariai__narys-name">Banis</div>
@@ -92,7 +92,7 @@ include('parts/header.php'); ?>
 
         <div class="nariai__narys">
           <div class="nariai__narys-img">
-            <img src="assets/img/dariuss.jpg" alt="">
+            <img src="assets/img/dariuss.jpg" width="200" height="200" alt="darius">
           </div>
           <div class="nariai__narys-info">
             <div class="nariai__narys-name">Darius</div>
@@ -111,7 +111,7 @@ include('parts/header.php'); ?>
 
         <div class="nariai__narys">
           <div class="nariai__narys-img">
-            <img src="assets/img/ainiss.jpg" alt="">
+            <img src="assets/img/ainiss.jpg" width="200" height="200" alt="ainis">
           </div>
           <div class="nariai__narys-info">
             <div class="nariai__narys-name">Ainis</div>
@@ -130,7 +130,7 @@ include('parts/header.php'); ?>
 
         <div class="nariai__narys">
           <div class="nariai__narys-img">
-            <img src="assets/img/algis.jpg" alt="">
+            <img src="assets/img/algis.jpg" width="200" height="200" alt="algis">
           </div>
           <div class="nariai__narys-info">
             <div class="nariai__narys-name">Algis</div>

@@ -5,12 +5,11 @@
 
         <div class="player__albumImg  active-song" data-author="Babilono vartai"
           data-song="Duok Man Žuvį! (OTM Festival 2025)" data
-          data-src="assets/dainos/Babilono Vartai - Duok Man Žuvį!.mp3"
-          style="background-image: url(assets/img/bv.jpg)">
+          data-src="assets/dainos/Babilono Vartai - Duok Man Zuvi.mp3" style="background-image: url(assets/img/bv.jpg)">
         </div>
 
         <div class="player__albumImg" data-author="Babilono vartai" data-song="Babilono vartai (Albumas 2023)" data
-          data-src="assets/dainos/Babilono Vartai - Babilono vartai.mp3"
+          data-src="assets/dainos/Babilono Vartai - Babilono Vartai.mp3"
           style="background-image: url(assets/img/bv.jpg)">
         </div>
         <div class="player__albumImg" data-author="Babilono vartai" data-song="Regis (Albumas 2023)" data

@@ -1,7 +1,7 @@
 <div class="content-wrap__menu-btn"><span>Meniu</span></div>
 <div class="content-wrap__menu">
   <a href="/" class="menu-logo">
-    <img src="assets/img/bv.jpg" alt="">
+    <img src="assets/img/bv.jpg" width="230" height="226" alt="logo">
   </a>
   <ul class="menu-list">
     <?php
