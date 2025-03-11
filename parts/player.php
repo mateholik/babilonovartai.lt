@@ -17,7 +17,7 @@
           data-src="assets/dainos/Babilono Vartai - Regis.mp3" style="background-image: url(assets/img/bv.jpg)">
         </div>
         <div class="player__albumImg" data-author="Babilono vartai" data-song="Vienas Žodis (Albumas 2023)" data
-          data-src="assets/dainos/Babilono Vartai - Vienas Žodis.mp3" style="background-image: url(assets/img/bv.jpg)">
+          data-src="assets/dainos/Babilono Vartai - Vienas Zodis.mp3" style="background-image: url(assets/img/bv.jpg)">
         </div>
         <div class="player__albumImg" data-author="Babilono vartai" data-song="Medelis (Albumas 2023)" data
           data-src="assets/dainos/Babilono Vartai - Medelis.mp3" style="background-image: url(assets/img/bv.jpg)">
@@ -27,17 +27,15 @@
           style="background-image: url(assets/img/bv.jpg)">
         </div>
         <div class="player__albumImg" data-author="Babilono vartai" data-song="Vėl Kalėdos (Albumas 2023)" data
-          data-src="assets/dainos/Babilono Vartai - Vėl Kalėdos.mp3" style="background-image: url(assets/img/bv.jpg)">
+          data-src="assets/dainos/Babilono Vartai - Vel Kaledos.mp3" style="background-image: url(assets/img/bv.jpg)">
         </div>
 
 
         <div class="player__albumImg" data-author="Babilono vartai" data-song="Bijau (Sostinės Dienos 2017)" data
-          data-src="assets/dainos/Babilono Vartai - Bijau (Sostinės Dienos 2017).mp3"
-          style="background-image: url(assets/img/bv.jpg)">
+          data-src="assets/dainos/Babilono Vartai - Bijau.mp3" style="background-image: url(assets/img/bv.jpg)">
         </div>
         <div class="player__albumImg" data-author="Babilono vartai" data-song="Kapt Kapt (Variokas, 2017)" data
-          data-src="assets/dainos/Babilono Vartai - Kapt Kapt (SteamnSound 18 Variokas).mp3"
-          style="background-image: url(assets/img/bv.jpg)">
+          data-src="assets/dainos/Babilono Vartai - Kapt Kapt.mp3" style="background-image: url(assets/img/bv.jpg)">
         </div>
       </div>
       <div class="player__controls">
