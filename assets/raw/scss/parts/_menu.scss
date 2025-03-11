@@ -44,11 +44,13 @@
       a {
         color: lightyellow;
         text-decoration: none;
+        padding: 1.5rem 2rem;
+        display: block;
       }
       li {
         list-style: none;
         margin: 0;
-        padding: 1.5rem 2rem;
+
         &:hover {
           cursor: pointer;
         }

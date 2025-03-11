@@ -9,15 +9,15 @@
                 echo '<a href="/"><li>Pradžia</li></a>';
             }
         ?>
-    <a href="/istorija.php">
-      <li>Istorija</li>
-    </a>
-    <a href="/nariai.php">
-      <li>Nariai</li>
-    </a>
-    <a href="/akordai.php">
-      <li>Akordai</li>
-    </a>
+    <li>
+      <a href="/istorija.php">Istorija</a>
+    </li>
+    <li>
+      <a href="/nariai.php">Nariai</a>
+    </li>
+    <li>
+      <a href="/akordai.php">Akordai</a>
+    </li>
 
   </ul>
   <div class="menu-socials">
